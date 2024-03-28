@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "675717960941",
+    "firebase_url": "https://senior2-2e798-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "senior2-2e798",
+    "storage_bucket": "senior2-2e798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675717960941:android:37ec9600b6389c964b68e4",
+        "android_client_info": {
+          "package_name": "com.example.ermes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCH13wNYtE8-ClbfbOVrOBWZ8gALhRCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

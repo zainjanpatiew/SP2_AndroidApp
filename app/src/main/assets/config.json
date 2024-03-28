@@ -1,0 +1,10 @@
+{
+  "face_model_path":"/data/user/0/com.example.ermes/files/face.model",
+  "detect_model_path":"/data/user/0/com.example.ermes/files/detect.model",
+  "rgb_liveness_model_path":"/data/user/0/com.example.ermes/files/rgb_liveness.model",
+  "nir_liveness_model_path":"/data/user/0/com.example.ermes/files/nir_liveness.model",
+  "attr_model_path":"/data/user/0/com.example.ermes/files/attribute.model",
+  "occlusion_model_path":"/data/user/0/com.example.ermes/files/face_occlusion.model",
+  "headpose_model_path":"/data/user/0/com.example.ermes/files/head_pose.model",
+  "depth_detector":"/data/user/0/com.example.ermes/files/depth_detector.yml"
+}
