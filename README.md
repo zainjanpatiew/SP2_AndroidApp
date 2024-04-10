@@ -1,5 +1,3 @@
-Here's the raw text version of the project description formatted using Markdown, ready to be pasted into your GitHub README file:
-
 # Facial Attendance Tracker
 
 **Description**
